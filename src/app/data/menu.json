@@ -1,0 +1,962 @@
+[
+  {
+    "id": 100,
+    "name": "Carpaccio de salmão",
+    "description": "Fatias finas de salmão, com raspas de limão siciliano, gergelim e folhas de rúcula",
+    "price": 79.00,
+    "image": "carpacio-salmao_ui9zhj",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 101,
+    "name": "Carpaccio Misto",
+    "description": "Fatias finas de salmão, atum e saint peter, com raspas de limão, gergelim e folhas de rúcula",
+    "price": 82.00,
+    "image": "carpacio-misto_wvetkc",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 102,
+    "name": "Maguro-no-Goma",
+    "description": "Fatias de atum polvilhadas com gergelim, seladas no azeite. Molho tarê, limão siciliano e folhas de rúcula em cima",
+    "price": 88.00,
+    "image": "",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 103,
+    "name": "Shake-no-Goma",
+    "description": "Fatias de salmão polvilhadas com gergelim, seladas no azeite. Molho tarê, limão siciliano e folhas de rúcula em cima",
+    "price": 85.00,
+    "image": "shake-no-goma_qoy3qu",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 104,
+    "name": "Ceviche à moda da casa",
+    "description": "Cubos de salmão e saint peter com rodelas de cebola roxa e cebolinha, e marinados em suco à base de limão",
+    "price": 68.00,
+    "image": "",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 105,
+    "name": "Verão",
+    "description": "Roll de salmão maçaricado com cream cheese e gengibre temperado. Coberto com molho tarê, cebolinha e gergelim (10 un.)",
+    "price": 69.00,
+    "image": "sushi-verao_tqsizp",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 106,
+    "name": "Wakame temperado",
+    "description": "Refrescante salada de alga marinha temperada com gergelim (150g)",
+    "price": 38.00,
+    "image": "",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 107,
+    "name": "Baterá de Salmão",
+    "description": "Sushi prensado em forma de cubo, feito com camadas de arroz e de salmão intercaladas. Cebolinha, gergelim, raspas de limão e rúcula em cima (10 un.)",
+    "price": 45.00,
+    "image": "batera-de-salmao_imnjmc",
+    "category": "entradas_sushi",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 108,
+    "name": "Tempurá de Shisô",
+    "description": "Tempurá de folha de shisô, recheado com delicioso tartar de salmão e cebolinha. (4 un.)",
+    "price": 55.00,
+    "image": "",
+    "category": "entradas_sushi",
+    "chefChoice": true,
+    "mostPopular": false
+  },
+  {
+    "id": 200,
+    "name": "Guioza",
+    "description": "Bolinhos japoneses recheados",
+    "price": 37.50,
+    "image": "guioza_t0ulrr",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 201,
+    "name": "Harumaki",
+    "description": "Rolinho primavera japonês, feito com massa fina e crocante, e recheado com vegetais, queijo ou camarão (4 un.)",
+    "price": 39.00,
+    "image": "harumaki_wdanus",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 202,
+    "name": "Shimeji",
+    "description": "Shimeji refogado na manteiga com shoyu, Saquê e cebolinha em cima",
+    "price": 55.00,
+    "image": "shimeji_pkfqzb",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 203,
+    "name": "Shimeji com Lula",
+    "description": "Cogumelos e anéis de lula puxados na manteiga com shoyu e Saquê",
+    "price": 75.00,
+    "image": "shimeji-com-lula_to4ohj",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 204,
+    "name": "Iká fry",
+    "description": "Anéis de lula empanados na farinha panko. Acompanha molho tonkatsu",
+    "price": 65.00,
+    "image": "",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 205,
+    "name": "Camarão Crocante",
+    "description": "Camarões crocantes empanados na massa de tempurá e na farinha panko",
+    "price": 85.00,
+    "image": "",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 206,
+    "name": "Edamame",
+    "description": "Vagens de soja verde cozidas no vapor (200g)",
+    "price": 37.00,
+    "image": "",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 207,
+    "name": "Karaague",
+    "description": "Pedaços de sobrecoxa de frango marinados em molho de shoyu com gengibre e empanados em massa leve e crocante",
+    "price": 48.00,
+    "image": "",
+    "category": "entradas_cozinha",
+    "chefChoice": true,
+    "mostPopular": false
+  },
+  {
+    "id": 208,
+    "name": "Sunomono com Kani",
+    "description": "Salada de pepino fatiado no molho agridoce, e gergelim e tiras de kani em cima",
+    "price": 35.00,
+    "image": "",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 209,
+    "name": "Salada de Salmão",
+    "description": "Rúcula, alface, kani, pepino japonês, tomate e fatias de salmão. Acompanha o delicioso molho de cenoura",
+    "price": 48.00,
+    "image": "",
+    "category": "entradas_cozinha",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 300,
+    "name": "Alpha 1 Simples",
+    "description": "10 sashimi | 6 niguiri | 8 uramaki (serve 1 a 2 pessoas) (24 un.)",
+    "price": 115.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 301,
+    "name": "Alpha 1 Especial",
+    "description": "10 sashimi | 6 niguiri | 8 uramaki | 2 jou | 2 baterá | 2 hotinho (serve de 1 a 2 pessoas). Serve 2 pessoas (30 un.)",
+    "price": 135.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 302,
+    "name": "Alpha 2 Simples",
+    "description": "15 sashimi | 12 niguiri | 4 jou salmão | 16 uramaki (serve 2 a 3 pessoas) (47 un.)",
+    "price": 235.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 303,
+    "name": "Alpha 2 Especial",
+    "description": "15 sashimi | 12 niguiri | 4 jou salmão | 16 uramaki | 4 baterá | 6 hotinho (serve 2 a 3 pessoas) Serve 3 pessoas (57 un.)",
+    "price": 265.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 304,
+    "name": "Alpha 3 Simples",
+    "description": "25 sashimi | 18 niguiri | 6 jou salmão | 24 uramaki (serve 3 a 4 pessoas) (73 un.)",
+    "price": 355.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 305,
+    "name": "Alpha 3 Especial",
+    "description": "25 sashimi | 18 niguiri | 6 jou salmão | 24 uramaki | 6 baterá | 10 hotinho (serve 3 a 4 pessoas) Serve 4 pessoas (89 un.)",
+    "price": 395.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 306,
+    "name": "Alpha 4 Simples",
+    "description": "35 sashimi | 24 niguiri | 8 jou salmão | 32 uramaki (serve 4 a 5 pessoas) (99 un.)",
+    "price": 465.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 307,
+    "name": "Alpha 4 Especial",
+    "description": "35 sashimi | 24 niguiri | 8 jou salmão | 32 uramaki | 8 baterá | 15 hotinho (serve 4 a 5 pessoas) (122 un.)",
+    "price": 495.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 308,
+    "name": "Alpha 5 Simples",
+    "description": "7 niguiri | 1 jou salmão | 8 uramaki Serve 1 pessoa (16 un.)",
+    "price": 99.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 309,
+    "name": "Alpha 5 Especial",
+    "description": "7 niguiri | 2 jou salmão | 8 uramaki | 2 baterá Serve 1 pessoa (19 un.)",
+    "price": 110.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 310,
+    "name": "Alpha 6 Simples",
+    "description": "14 niguiri | 4 jou salmão | 16 uramaki Serve 2 pessoas (34 un.)",
+    "price": 195.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 311,
+    "name": "Alpha 6 Especial",
+    "description": "14 niguiri | 4 jou salmão | 16 uramaki | 4 baterá | 5 hotinho Serve 2 pessoas (43 un.)",
+    "price": 225.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 312,
+    "name": "Alpha 7 Simples",
+    "description": "15 fatias de peixes variados (15 un.)",
+    "price": 75.00,
+    "image": "alfa-7-simples_pvyzsw",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 313,
+    "name": "Alpha 8 Simples",
+    "description": "25 fatias de peixes variados (25 un.)",
+    "price": 125.00,
+    "image": "",
+    "category": "combinados",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 400,
+    "name": "Temaki de Salmão",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz e salmão",
+    "price": 38.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 401,
+    "name": "Temaki de Salmão sem Arroz",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de salmão",
+    "price": 45.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 402,
+    "name": "Temaki de Salmão Empanado",
+    "description": "Sushi empanado, em forma de cone, com alga enrolada em torno de arroz e salmão",
+    "price": 45.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 403,
+    "name": "Temaki Filadélfia",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz, salmão grelhado e ovas. Coberto com molho tarê",
+    "price": 38.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 404,
+    "name": "Temaki Skin",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz e pele de salmão frita. Coberto com molho tarê",
+    "price": 35.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 405,
+    "name": "Temaki Califórnia",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz, kani, pepino e manga",
+    "price": 32.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 406,
+    "name": "Temaki Ebitem",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz e camarões empanados. Coberto com molho tarê",
+    "price": 45.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 407,
+    "name": "Temaki de Camarão",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz e camarão na manteiga",
+    "price": 45.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 408,
+    "name": "Temaki de Atum",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz e atum",
+    "price": 35.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 409,
+    "name": "Temaki Spicy Tuna",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz, atum e pimenta tabasco",
+    "price": 35.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 410,
+    "name": "Temaki Especial",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz, salmão, atum, camarão, kani, pepino e ovas",
+    "price": 42.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 411,
+    "name": "Temaki Vegan",
+    "description": "Sushi em forma de cone, com alga enrolada em torno de arroz, tofu, pepino, alga temperada, rúcula e cebolinha",
+    "price": 35.00,
+    "image": "",
+    "category": "temaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 500,
+    "name": "Hot Roll",
+    "description": "Sushi empanado com recheio de salmão, kani, ovas, camarão e cream cheese. Coberto com molho tarê e cebolinha. (12 un.)",
+    "price": 58.00,
+    "image": "",
+    "category": "hot_roll",
+    "chefChoice": true,
+    "mostPopular": false
+  },
+  {
+    "id": 501,
+    "name": "Hotinho",
+    "description": "Sushi empanado com recheio de arroz, salmão e cream cheese. Coberto com molho tarê e cebolinha. (12 un.)",
+    "price": 49.00,
+    "image": "",
+    "category": "hot_roll",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 502,
+    "name": "Hotinho Especial",
+    "description": "Sushi empanado com recheio de arroz, salmão, kani e cream cheese. Coberto com geléia de pimenta, couve frita e molho tarê. (12 un.)",
+    "price": 55.00,
+    "image": "",
+    "category": "hot_roll",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 503,
+    "name": "Haru Hot",
+    "description": "Sushi de massa fina e empanada, com recheio de arroz, salmão, kani e cream cheese. Coberto com molho tarê e cebolinha (12 un.)",
+    "price": 55.00,
+    "image": "haru-hot_rrv2lt",
+    "category": "hot_roll",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 600,
+    "name": "Uramaki de Salmão",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de salmão com cebolinha (8 un.)",
+    "price": 45.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 601,
+    "name": "Uramaki Filadélfia",
+    "description": "Enrolado de alga com arroz e ovas de peixe por fora e recheio de cream cheese com salmão grelhado. Cebolinha e molho tarê em cima (8 un.)",
+    "price": 45.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 602,
+    "name": "Uramaki Skin",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de pele de salmão frita. Molho tarê em cima (8 un.)",
+    "price": 42.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 603,
+    "name": "Uramaki Califórnia",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de pepino, kani e manga (8 un.)",
+    "price": 39.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 604,
+    "name": "Uramaki Bantchá",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de cream cheese com camarão crocante empanado e envolto por fatias de salmão. Cebolinha e molho tarê em cima (8 un.)",
+    "price": 53.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 605,
+    "name": "Uramaki Ebitem",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de cream cheese com camarão crocante empanado. Cebolinha e molho tarê em cima (8 un.)",
+    "price": 48.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 606,
+    "name": "Uramaki de Atum",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de atum com cebolinha (8 un.)",
+    "price": 45.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 607,
+    "name": "Uramaki Spicy Tuna",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de atum com pimenta tabasco e cebolinha (8 un.)",
+    "price": 45.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 608,
+    "name": "Uramaki Vegan",
+    "description": "Enrolado de alga com arroz e gergelim por fora e recheio de tofu, pepino, alga temperada, rúcula e cebolinha (8 un.)",
+    "price": 42.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 609,
+    "name": "Shakemaki",
+    "description": "Enrolado de arroz e salmão envoltos em alga (8 un.)",
+    "price": 32.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 610,
+    "name": "Kappamaki",
+    "description": "Enrolado de arroz e pepino envoltos em alga (8 un.)",
+    "price": 30.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 611,
+    "name": "Tekkamaki",
+    "description": "Enrolado de arroz e atum envoltos em alga (8 un.)",
+    "price": 32.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 612,
+    "name": "Kanimaki",
+    "description": "Enrolado de arroz e kani envoltos em alga (8 un.)",
+    "price": 30.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 613,
+    "name": "Jou de Salmão",
+    "description": "Arroz com fatia de salmão em volta e recheio de salmão batido. Cebolinha e gergelim em cima (6 un.)",
+    "price": 45.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 614,
+    "name": "Jou de Shimeji",
+    "description": "Arroz com fatia de salmão em volta e recheio de shimeji na manteiga com cream cheese. Gergelim e molho tarê em cima (6 un.)",
+    "price": 42.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 615,
+    "name": "Jou Ebitem",
+    "description": "Camarões crocantes empanados com cream cheese e envoltos em fatias de salmão. Cebolinha, gergelim, raspas de limão e molho tarê em cima (6 un.)",
+    "price": 47.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 616,
+    "name": "Jou de Geléia",
+    "description": "Arroz com fatia de salmão maçaricado em volta e recheio de cream cheese e geléia de morango. Gergelim em cima (6 un.)",
+    "price": 42.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 617,
+    "name": "Jou Filadélfia",
+    "description": "Arroz com fatia de salmão em volta e recheio de salmão grelhado. Cebolinha, gergelim e molho tarê em cima (6 un.)",
+    "price": 42.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 618,
+    "name": "Jou Skin",
+    "description": "Arroz com fatia de salmão em volta e recheio de pele frita de salmão com cream cheese. Fatias de limão, crispy de couve, gergelim e molho tarê em cima (6 un.)",
+    "price": 42.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 619,
+    "name": "Jou de Camarão",
+    "description": "Arroz com fatia de salmão em volta e recheio de cream cheese e camarão na manteiga. Cebolinha, gergelim e molho tarê em cima (6 un.)",
+    "price": 47.00,
+    "image": "",
+    "category": "uramaki_hossomaki_jou",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 700,
+    "name": "Shoyu Tyashu Lámen",
+    "description": "Sopa japonesa de macarrão, servida em caldo saboroso com fatias de carne marinadas no shoyu, kamaboku, tikuwa, shimeji, tamagoyaki e moyashi. Serve 1 pessoa",
+    "price": 55.00,
+    "image": "shoyu-tyashu-lamen_c1jkrg",
+    "category": "lamen_udon",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 701,
+    "name": "Udon Tradicional",
+    "description": "Macarrão udon com kamaboku, tikuwa, shitake, tamagoyaki, moyashi e cebolinha. Serve 1 pessoa",
+    "price": 57.00,
+    "image": "",
+    "category": "lamen_udon",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 702,
+    "name": "Tempurá Udon",
+    "description": "Macarrão udon com kamaboku, shitake, tamagoyaki, kani, moyashi, cebolinha e tempurá (2 camarões e 5 legumes). Serve 1 pessoa",
+    "price": 67.00,
+    "image": "",
+    "category": "lamen_udon",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 800,
+    "name": "Anchova Teishoku",
+    "description": "Refeição típica japonesa, inclui anchova grelhada, shimeji, kakiague, salada, sunomono, arroz e missoshiro",
+    "price": 78.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 801,
+    "name": "Salmão Teishoku",
+    "description": "Refeição típica japonesa, inclui salmão grelhado, shimeji, kakiague, salada, sunomono, arroz e missoshiro",
+    "price": 78.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 802,
+    "name": "Gyukatsu Teishoku",
+    "description": "Refeição típica japonesa, inclui filé mignon à milanesa, legumes, salada, arroz e missoshiro",
+    "price": 78.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 803,
+    "name": "Chicken Katsu Teishoku",
+    "description": "Refeição típica japonesa, inclui frango à milanesa, legumes, salada, arroz e missoshiro",
+    "price": 72.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 804,
+    "name": "Teppan de Anchova",
+    "description": "Anchova grelhada na chapa com legumes. Acompanha arroz e missoshiro",
+    "price": 78.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 805,
+    "name": "Teppan de Salmão",
+    "description": "Salmão grelhado na chapa com legumes. Acompanha arroz e missoshiro",
+    "price": 82.00,
+    "image": "teppan-de-salmao_p1jnmz",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 806,
+    "name": "Teppan Especial",
+    "description": "Anchova (ou salmão) grelhado na chapa com legumes. Acompanha shimeji, arroz e missoshiro",
+    "price": 89.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 807,
+    "name": "Teppan de Frutos do Mar",
+    "description": "Anchova (ou salmão), kani, camarão, lula, mexilhão e shimeji grelhados na chapa com legumes. Acompanha arroz e missoshiro",
+    "price": 145.00,
+    "image": "teppan-de-frutos-do-mar_qzr0m6",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 808,
+    "name": "Teppan de Filé Mignon",
+    "description": "Filé Mignon grelhado na chapa com legumes. Acompanha arroz e missoshiro",
+    "price": 79.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 809,
+    "name": "Teppan de Frango",
+    "description": "Filé de frango grelhado na chapa com legumes. Acompanha arroz e missoshiro",
+    "price": 69.00,
+    "image": "",
+    "category": "teishoku_teppanyaki",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 900,
+    "name": "Yakissoba de Carne",
+    "description": "Macarrão frito com carne bovina, legumes e molho de sua escolha",
+    "price": 78.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 901,
+    "name": "Yakissoba de Frango",
+    "description": "Macarrão frito com frango, legumes e molho de sua escolha",
+    "price": 78.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 902,
+    "name": "Yakissoba Misto",
+    "description": "Macarrão frito com carne, frango, legumes e molho de sua escolha",
+    "price": 78.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 903,
+    "name": "Yakissoba Especial",
+    "description": "Macarrão frito com carne, frango, camarão, legumes e molho de sua escolha",
+    "price": 88.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 904,
+    "name": "Yakissoba de Camarão",
+    "description": "Macarrão frito com camarão, legumes e molho de sua escolha",
+    "price": 88.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 905,
+    "name": "Yakissoba de Frutos do Mar",
+    "description": "Macarrão frito com camarão, lula, polvo, salmão em cubos, legumes variados e molho de sua escolha",
+    "price": 88.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 906,
+    "name": "Yakissoba de Salmão",
+    "description": "Macarrão frito com salmão em cubos, legumes e molho de sua escolha",
+    "price": 78.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 907,
+    "name": "Yakissoba Vegetariano",
+    "description": "Macarrão frito com legumes e molho de sua escolha",
+    "price": 62.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 908,
+    "name": "Tempurá de camarão",
+    "description": "12 camarões empanados em massa leve e crocante. Acompanha molho da casa",
+    "price": 95.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 909,
+    "name": "Tempurá misto",
+    "description": "4 camarões e 12 legumes variados, empanados em massa leve e crocante. Acompanha molho da casa",
+    "price": 88.00,
+    "image": "tempura-misto_spksca",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": true
+  },
+  {
+    "id": 910,
+    "name": "Tempurá de legumes",
+    "description": "15 legumes variados (abóbora japonesa, batata doce, cebola, cenoura, vagem) empanados em massa leve e crocante. Acompanha molho da casa",
+    "price": 65.00,
+    "image": "",
+    "category": "yakisoba_tempura",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 1000,
+    "name": "Yakimeshi",
+    "description": "Arroz frito japonês com ovos mexidos, legumes, cebolinha e proteína de sua escolha",
+    "price": 53.00,
+    "image": "",
+    "category": "acompanhamentos",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 1001,
+    "name": "Gohan",
+    "description": "Arroz japonês cozido ao vapor",
+    "price": 15.00,
+    "image": "gohan_hxa8ad",
+    "category": "acompanhamentos",
+    "chefChoice": false,
+    "mostPopular": false
+  },
+  {
+    "id": 1002,
+    "name": "Missoshiro",
+    "description": "Tradicional sopa japonesa com caldo dashi e pasta de miso, contendo tofu e cebolinha",
+    "price": 15.00,
+    "image": "missoshiro_zylx31",
+    "category": "acompanhamentos",
+    "chefChoice": false,
+    "mostPopular": false
+  }
+]
